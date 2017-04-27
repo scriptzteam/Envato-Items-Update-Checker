@@ -1,6 +1,0 @@
-2015-05-09T16:50:49+10:00
-<<<<<<< HEAD
-WordPress / Media" height="80" width="80
-=======
-WordPress / Media
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

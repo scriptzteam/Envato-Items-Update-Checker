@@ -1,6 +1,0 @@
-2017-03-15T15:00:40+11:00
-<<<<<<< HEAD
-WordPress / eCommerce / WooCommerce" height="80" width="80
-=======
-WordPress / eCommerce / WooCommerce
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

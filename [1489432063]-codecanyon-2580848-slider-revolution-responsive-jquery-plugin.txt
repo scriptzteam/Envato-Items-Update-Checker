@@ -1,6 +1,0 @@
-2017-03-14T06:07:43+11:00
-<<<<<<< HEAD
-JavaScript / Sliders" height="80" width="80
-=======
-JavaScript / Sliders
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

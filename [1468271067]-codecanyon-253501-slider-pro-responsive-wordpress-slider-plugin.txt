@@ -1,6 +1,0 @@
-2016-07-12T07:04:27+10:00
-<<<<<<< HEAD
-WordPress / Interface Elements / Sliders" height="80" width="80
-=======
-WordPress / Interface Elements / Sliders
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

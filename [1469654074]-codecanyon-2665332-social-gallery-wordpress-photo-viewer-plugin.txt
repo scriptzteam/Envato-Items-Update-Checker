@@ -1,6 +1,0 @@
-2016-07-28T07:14:34+10:00
-<<<<<<< HEAD
-WordPress / Galleries" height="80" width="80
-=======
-WordPress / Galleries
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

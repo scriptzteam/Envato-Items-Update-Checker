@@ -1,6 +1,0 @@
-2015-03-24T16:52:32+11:00
-<<<<<<< HEAD
-PHP Scripts / Database Abstractions" height="80" width="80
-=======
-PHP Scripts / Database Abstractions
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

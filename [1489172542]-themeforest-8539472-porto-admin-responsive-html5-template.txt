@@ -1,5 +1,0 @@
-2017-03-11T06:02:22+11:00
-<<<<<<< HEAD
-=======
-Site Templates / Admin Templates
->>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063
