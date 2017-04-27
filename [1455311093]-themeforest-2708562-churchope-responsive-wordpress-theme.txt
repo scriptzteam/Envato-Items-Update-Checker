@@ -1,1 +1,5 @@
 2016-02-13T08:04:53+11:00
+<<<<<<< HEAD
+=======
+WordPress / Nonprofit / Churches
+>>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

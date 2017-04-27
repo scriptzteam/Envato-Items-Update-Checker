@@ -1,2 +1,6 @@
 2015-05-29T08:06:45+10:00
+<<<<<<< HEAD
 CSS / Pricing Tables" height="80" width="80
+=======
+CSS / Pricing Tables
+>>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

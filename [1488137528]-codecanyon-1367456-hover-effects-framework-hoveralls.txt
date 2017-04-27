@@ -1,2 +1,6 @@
 2017-02-27T06:32:08+11:00
+<<<<<<< HEAD
 JavaScript / Images and Media" height="80" width="80
+=======
+JavaScript / Images and Media
+>>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

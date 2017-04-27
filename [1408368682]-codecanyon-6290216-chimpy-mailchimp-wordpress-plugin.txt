@@ -1,2 +1,6 @@
 2014-08-18T23:31:22+10:00
+<<<<<<< HEAD
 WordPress / Newsletters" height="80" width="80
+=======
+WordPress / Newsletters
+>>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063

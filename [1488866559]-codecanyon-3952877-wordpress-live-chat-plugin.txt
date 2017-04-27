@@ -1,2 +1,6 @@
 2017-03-07T17:02:39+11:00
+<<<<<<< HEAD
 WordPress / Utilities" height="80" width="80
+=======
+WordPress / Utilities
+>>>>>>> 63b6e1882557e43c4083f3dc3d1446f9aed8b063
